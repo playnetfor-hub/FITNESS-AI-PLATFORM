@@ -1,0 +1,5 @@
+{
+  "name": "AI Fitness Coach",
+  "description": "An advanced, AI-powered gym and fitness coaching web application that provides personalized workout and meal plans based on user's body metrics, goals, and preferences. It includes detailed analysis and a research tool to help users on their fitness journey.",
+  "requestFramePermissions": []
+}
